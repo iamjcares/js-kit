@@ -1,0 +1,5 @@
+nsp for security
+express for server
+ngrok for work-in-progress (install localtunnel, now -g)
+
+webpack (bundling app)
